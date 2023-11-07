@@ -1,4 +1,4 @@
-# rentify
+# Rentify
 
 [![Java](https://img.shields.io/badge/Java-red?style=for-the-badge)](https://www.java.com/)
 [![JavaFX](https://img.shields.io/badge/JavaFX-blue?style=for-the-badge)](https://openjfx.io/)
